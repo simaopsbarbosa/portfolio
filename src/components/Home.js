@@ -6,7 +6,7 @@ function Home() {
         Informatics and Computing Engineering student at FEUP
       </h2>
       <div className="flex gap-5 py-5">
-        <a className="font-light hover:drop-shadow-xl">about</a>
+        <a className="font-light">about</a>
         <a className="font-light">projects</a>
         <a className="font-light">contact</a>
       </div>
